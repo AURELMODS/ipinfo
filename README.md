@@ -4,7 +4,7 @@
 ## What is IP Info ?
 Ip Info is a python script to scan ip address and give you results about target ip address. This script will help you to find victim region,country,date and time,city,ISP,Lat and Lon, zip code, time zone and AS. Tool works in both phones rooted and non rooted. Its work in Termux and Kali Linux. Specially design for Beginners.
 
-![unnamed (2)](https://github.com/vpphacker/ipinfo/blob/master/IMG_20191207_014232.JPG)
+![unnamed (2)](![image](https://user-images.githubusercontent.com/94483858/157892460-a25a3bd2-2f73-4c77-8b83-02b7888bb169.png)
 
 ## IP Info Avilable For
 * Termux
