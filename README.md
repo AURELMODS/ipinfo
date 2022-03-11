@@ -20,7 +20,7 @@ apt update && apt upgrade -y
 apt install git -y
 ```
 ```
-git clone https://github.com/vpphacker/ipinfo.git
+git clone https://github.com/ahgaurel1/ipinfo.git
 ```
 ```
 cd ipinfo
